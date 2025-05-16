@@ -1,4 +1,4 @@
-## Why
+## Why GeminiAPI转换为OpenAI API格式
 
 The Gemini API is [free](https://ai.google.dev/pricing "limits applied!"),
 but there are many tools that work exclusively with the OpenAI API.
